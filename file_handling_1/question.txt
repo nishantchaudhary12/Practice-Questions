@@ -1,0 +1,26 @@
+Your program should declare all of the variables listed above using the given names and
+declare additional variables to solve the following problem:
+For each line of the input file do the following,
+calculate how many hours and minutes that person worked,
+calculate how much pay they made for that day, (hours worked * hourlyPay), and
+print in order [You’ll probably want to use formatted printing with printf.]
+their four times in military time format (i.e. the way they were read in),
+the number of hours worked,
+the hourly pay rate,
+the pay for the day,
+the person’s first name, and
+the person’s last name
+Keep a running sum of the total amount to be paid to all employees listed in the file.
+Find the max hours worked and the min hours worked that day.
+Make sure the data is formatted as a table. Here is an example but yours can be different.
+
+After all the data in the file is read, find
+the average pay for the day and
+the average number of hours worked.
+Print out
+the total count of employees,
+the total amount to be paid to all employees,
+the two averages,
+the max hours worked and
+the min hours worked.
+An example is below but yours can be different.

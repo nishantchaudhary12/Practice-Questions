@@ -1,0 +1,2 @@
+Find a 5-digit number ABCDE such that if we place an extra numeral 1 at the beginning, we
+get a number three times smaller than if we put that numeral 1 at the end of the number.
